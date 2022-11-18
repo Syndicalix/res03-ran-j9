@@ -1,0 +1,1 @@
+l'HTML et le CSS doivent tout les deux donner le resultat qui se trouve sur formulaire.png (a trouver les fautes html/css)
